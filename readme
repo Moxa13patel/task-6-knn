@@ -1,0 +1,13 @@
+Task Summary
+Chose the Iris dataset, a popular multi-class classification dataset.
+
+Normalized the feature set using StandardScaler to improve model performance.
+
+Implemented K-Nearest Neighbors (KNN) classification using sklearn.neighbors.KNeighborsClassifier.
+
+Experimented with different values of K to observe the impact on accuracy and model behavior.
+
+Evaluated model performance using accuracy score and confusion matrix.
+
+Visualized decision boundaries using 2D feature pairs to understand the classifier's separation of classes.
+
